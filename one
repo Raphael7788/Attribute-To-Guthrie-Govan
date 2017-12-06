@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+
+  <title>Portfolio 1 ; Guthrie Govan </title>
+  
+  <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'>
+<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css'>
+
+      <style>
+      body { font-family: Georgia, Helvetica Neue; margin-top: 60px; color: silver; background: url(http://hdwallpapersbuzz.com/wp-content/uploads/2017/02/3D-abstract-full-hd-wallpapers-47.jpg)no-repeat bottom center scroll; background-attachment: fixed; background-color: #1a1e54; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover;; }
+#guthrie {
+  border: 3px solid #151B54;
+  border-radius: 10px;
+}
+P {
+  font-size: 15px;
+}
+h1 {
+  font-size: 60px;
+}
+
+    </style>
+
+</head>
+
+<body translate="no" >
+
+  <div class="container">
+    <div>
+      <h1 class="text-center"><strong>Guthrie Govan</strong></h1>
+      <br>
+      <h2 class="text-center"><em>The Saviour of Shred</em></h2>
+      <br>
+      <br>
+      <br>
+      <div><img src="http://www.guitar-bass.net/wp-content/uploads/2015/08/Govan-by-Mark-Keraly.jpg" alt="Guthrie Govan" class="center-block img-responsive" id="guthrie">
+        <br>
+        <div class="caption text-center">
+          <h5><strong>Guthrie Govan is a British virtuoso guitarist who has been working with diverse global musician: Hans Zimmer, Joe Satriani, Steve Vai, and to name a few.</strong></h5></div>
+      </div>
+      <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <br>
+        <br>
+        <h3><strong>Guthrie Govan's life and music playing career:</strong></h3>
+        <ul>
+          <li>
+            <h4><strong>1971</strong> - Born in Chemlsford, Essex, England</h4></li>
+          <li>
+            <h4><strong>1993</strong> - He won Guitarist magazine's "Guitarist of the Year"</h4></li>
+          <li>
+            <h4><strong>1990's</strong> - Teaching at the Guitar Institute in Acton, Thames Valley University, etc.</h4></li>
+          <li>
+            <h4><strong>2000's</strong> - Playing with diverse bands: Asia,  GPS, and The Young Punx.</h4></li>
+          <li>
+            <h4><strong>2010</strong> - Govan's debut solo album, Erotic Cakes, was released through Cornford Records.</h4></li>
+          <li>
+            <h4><strong>2011</strong> - Start performing and touring with The Aristocrats.</h4></li>
+          <li>
+            <h4><strong>2013</strong> - Performing and collaborating with diverse musicians: Paul Gilbert, Steven Wilson, Michael Angelo Batio, Nick Johnston.<h4></li>
+            <li><h4><strong>2014</strong> - Performing with Hans Zimmer 
+              </h4></ul>
+        <br>
+        <br>
+        <blockquote>
+          <p>"What sets Guthrie apart, is that no matter what he's doing — picking, tapping, slapping, playing legato, whatever — he mixes everything up gracefully and absolutely nails each approach. And all the while the music sounds natural."</p>
+          <footer><cite><strong>Joe Satriani</strong></cite></footer>
+        </blockquote>
+        <br>
+        <br>
+        <h4><em>Deeper details of Guthrie Govan's works and life can be read on his <a href="https://en.wikipedia.org/wiki/Guthrie_Govan" target="_blank">Wikipedia</a> and <a href="https://www.facebook.com/GuthrieGovanOfficial" target="_blank"> Official Facebook</a> page for current updates and upcoming works.</em></h4>
+    </div>
+      </div>
+  </div>
+  <footer class="text-center">
+    <hr>
+    <p>Written and Magically Made By <a href="https://www.freecodecamp.com/vin7788" target="_blank"> Sir Vin a.k.a Loki (Ironman)</a>.</p>
+  </footer>
+</div>
+  
+  
+  
+  
+  
+
+</body>
+</html>
+ 
